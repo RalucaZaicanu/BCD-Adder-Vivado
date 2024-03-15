@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Mar 14 17:45:58 2024
+# Process ID: 14384
+# Current directory: C:/Users/raluc/project_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3392 C:\Users\raluc\project_adder\project_adder.xpr
+# Log file: C:/Users/raluc/project_adder/vivado.log
+# Journal file: C:/Users/raluc/project_adder\vivado.jou
+# Running On: DESKTOP-EO96C5Q, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16856 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/raluc/project_adder/project_adder.xpr
+update_compile_order -fileset sources_1
